@@ -1,5 +1,7 @@
 # simple_autoclick_with_python
 
+esse é um codigo rudimentar e bem simple para um auto clicker ele pode não funcionar apropriadamente
+
 primeiro iniciar o prorgrama pelo cmd assim ele começara a ler quase todas as teclas que forem clicadas
 depois disso programa criara um arquivo na pasta "autoclick_saves"
 quando o arquivo for iniciado pelo cmd como um codigo python ele replicara todas as teclas salvas
